@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 two.txt 첫번째 기능개발
+=======
+two.txt first commit
+>>>>>>> login
